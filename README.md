@@ -1,1 +1,1 @@
-# Kickstarter Web Technologies
+# Web Technologies
